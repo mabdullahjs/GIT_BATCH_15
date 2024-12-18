@@ -1,0 +1,23 @@
+github account banaya.
+
+git install kiya.
+
+git bash open krka:
+
+git config --global user.name "your_github_username"
+
+git config --global user.email "your_github_email"
+
+Github pa aik repo/ folder banayaa
+
+uska baad us folder ka link copy krlia
+
+cmd krka git clone (link paste)
+
+
+
+
+
+
+
+
